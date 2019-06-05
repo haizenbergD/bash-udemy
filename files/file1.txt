@@ -1,0 +1,15 @@
+This will be added to ./files/file1.txt
+io.sh: line 9: something: command not found
+basics.sh
+buildInVariables.sh
+conditions.sh
+files
+getops.sh
+internalCommands.sh
+io.sh
+jobs.sh
+loops.sh
+randomNG.sh
+regexp.sh
+returnValues.sh
+variables.sh
